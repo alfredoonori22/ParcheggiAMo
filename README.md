@@ -46,6 +46,6 @@ The cloud database is an admin-tool too and it is serviceable for:
 -  Forecasting future trends
   
 <p align="center">
-  <img width="350" height="280" src="https://github.com/alfredoonori22/ParcheggiAMo/assets/62024453/7918ee96-073e-4952-a7c4-3e3bc4d327d5">
-  <img width="500" height="280" src="https://github.com/alfredoonori22/ParcheggiAMo/assets/62024453/27244d79-550e-4f35-b458-3210d9103725">
+  <img width="300" height="230" src="https://github.com/alfredoonori22/ParcheggiAMo/assets/62024453/7918ee96-073e-4952-a7c4-3e3bc4d327d5">
+  <img width="450" height="230" src="https://github.com/alfredoonori22/ParcheggiAMo/assets/62024453/27244d79-550e-4f35-b458-3210d9103725">
 </p> 
